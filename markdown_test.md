@@ -27,5 +27,5 @@
 
 
 ### キャプチャ 
-![pikmin_bloom](https://github.com/user-attachments/assets/35466c32-b4e3-4d7b-8897-4015d4724aa1)
+![pikmin_bloom](pikmin_bloom.png)
 
