@@ -27,5 +27,5 @@
 
 
 ### キャプチャ 
-![pikmin_bloom](pikmin_bloom.png)
+![pikmin_bloom](https://assets.st-note.com/production/uploads/images/65133616/rectangle_large_type_2_fec9dbe7912a40497edbd15c36d2370c.png)
 
